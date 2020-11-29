@@ -6,6 +6,7 @@ public class JamesAdivino {
 
 
     public static void main(String[] args) {
+        //Carolina Gutiérrez Proyecto ejecutado correctamente
         int n = 0,cont = 0;
         int x = (int) (Math.random() * (50 - 10)) +10;
         System.out.print(x);
